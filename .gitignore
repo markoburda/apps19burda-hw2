@@ -24,4 +24,3 @@ hs_err_pid*
 
 *.iml
 */target/*
-*\src\main\java\ua\edu\ucu\collections\Dispatcher.java
